@@ -1,4 +1,4 @@
-# Lab Ⅶ. Metaprogramming
+# Ⅶ. Metaprogramming Labs
 
 > 本章的lab省略，个人觉得做了意义不是很大。
 
