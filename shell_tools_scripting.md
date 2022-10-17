@@ -1,4 +1,4 @@
-# Lab 0. Shell-Tools-Scripting
+# 0. Shell-Tools-Scripting Labs
 1. 阅读 man ls ，然后使用ls 命令进行如下操作：
     - 所有文件（包括隐藏文件）
     - 文件打印以人类可以理解的格式输出 (例如，使用454M 而不是 454279954)
